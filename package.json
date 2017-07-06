@@ -1,6 +1,6 @@
 {
   "name": "@heatworks/hls-tests-api-js",
-  "version": "2017-06-20T13:31:11Z",
+  "version": "0.0.1",
   "description": "Javascript API for accessing and modifying tests in HLS.",
   "license": "MIT",
   "main": "src/index.js",
